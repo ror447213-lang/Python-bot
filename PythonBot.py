@@ -47,7 +47,7 @@ banner()
 # ============ CONFIGURATION ============
 
 # अपना बॉट टोकन यहाँ डालें
-BOT_TOKEN = '1234567890'
+BOT_TOKEN = '8691781379:AAH5X5TjbrA7MEy13ptchx2MYN7zFfAzYIU'
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # डेटाबेस फ़ाइल
@@ -75,7 +75,7 @@ def load_config():
         'max_output_length': 4000,
         'auto_install_modules': True,
         'auto_start_bots': True,
-        'admin_ids': [8416089909],
+        'admin_ids': [7634132457],
         'broadcast_enabled': True,
         'maintenance_mode': False
     }
